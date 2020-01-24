@@ -1,0 +1,10 @@
+BIOS version = 1.20
+BIOS date    = 2003.04.03
+SRAM top adr = 0x00100000
+SRAM end adr = 0x0013FFFF
+SRAM size    = 256 KB
+HW version   = 1.00
+SYSTEM clock = 24.000 MHz
+VDDE voltage = 3.300 V
+PFFS top adr = 0x00C28000
+PFFS end adr = 0x00C7FFFF
